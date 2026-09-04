@@ -7,12 +7,12 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
+Team 207 is a diverse group of students at ASU with the goal of producing a new product or gadget that has real world application. We align on this goal and each offer a unique perspective on our goals and projects.
 
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
+Team 207's mission is to make design, create, and produce a functioning product that can be useful to our community. 
 
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+

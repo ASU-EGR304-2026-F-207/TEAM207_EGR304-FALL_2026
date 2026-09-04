@@ -15,7 +15,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|CHristopher Plumley  | Text Message               | Zoom Meeting                | Meet In Person             |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
@@ -35,37 +35,37 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | - | - | - |
+| 11:00 AM | - | - | - | - | - | - | - |
+| 12:00 PM | - |- | - | - | - | - | - |
+| 1:00 PM | - | - | - | - | - | - | - |
+| 2:00 PM | - | - | - | - | - | - | - |
+| 3:00 PM | C | - | C | - | C | C | C |
+| 4:00 PM | C | - | C | - | C | C | C |
+| 5:00 PM | C | - | C | - | C | C | C |
+| 6:00 PM | - | - | - | - | - | - | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | - | - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Chris | C |
+| Dahryl| D |
+| Aziyah| A |
+
 
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. We will use Google calandar to share meeting schedule.
+1. The team meeting recorder will change or add the meetings.
+1. Preffered format is on Zoom meeting.
+1. Notes from the meeting will be available for those unable to attend.
 
 ## Roles & Responsibilities
 
@@ -80,10 +80,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+Orderly conduct is expected. All team memebers are expected to contribute. Any conflicts will be recorded in team meeting notes. Repeated violations of this charter will result in third party mitigation by the professor or their assistants.
 
 
 ## Signatures
 
-Need to add content!!
+Signed Christopher L. Plumley 9/3/2026
 
