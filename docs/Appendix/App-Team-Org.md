@@ -38,16 +38,16 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | D,C,A  | - | - | - | - | - | - |
-| 9:00 AM | D,C,A  | - | - | - | - | - | - |
-| 10:00 AM | D,C,A  | - | - | - | - | - | - |
-| 11:00 AM | D,C,A  | - | - | - | - | - | - |
-| 12:00 PM | - |- | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | C,D | - | C | - | C | C,D | C,D |
-| 4:00 PM | C,D | - | C | - | C | C,D | C,D |
-| 5:00 PM | C,D | - | C,D | - | C,D | C,D | C,D |
+| 8:00 AM | D,C,A  | A | A | A | A | A | A |
+| 9:00 AM | D,C,A  | A | A | A | A | A | A |
+| 10:00 AM | D,C,A  | A | - | A | - | - | - |
+| 11:00 AM | D,C,A  | A | - | A | - | - | - |
+| 12:00 PM | - | A | - | - | - | - | - |
+| 1:00 PM | - | - | A | - | A | - | - |
+| 2:00 PM | - | - | A | - | A | - | - |
+| 3:00 PM | C,D,A | - | C,A | - | C | C,D,A | C,D,A |
+| 4:00 PM | C,D,A | - | C | - | C | C,D | C,D,A |
+| 5:00 PM | C,D,A | - | C,D | - | C,D | C,D | C,D,A |
 | 6:00 PM | - | - | - | - | - | - | - |
 | 7:00 PM | - | - | - | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
@@ -96,5 +96,7 @@ Orderly conduct is expected. All team members are expected to contribute. Any co
 
 Signed Christopher L. Plumley 9/3/2026
 
-Signed Dahryl J. Williams 9/3/2026    
+Signed Dahryl J. Williams 9/3/2026
+
+Signed Aziyah C. 9/3/2026
 
