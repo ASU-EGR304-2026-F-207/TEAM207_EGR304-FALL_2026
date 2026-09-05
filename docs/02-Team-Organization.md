@@ -7,7 +7,7 @@ tags:
 
 ## Team Charter
 
-Team 207 is a diverse group of students at ASU with the goal of producing a new product or gadget that has real world application. We align on this goal and each offer a unique perspective in our tasks and projects.
+ Team 207 is a diverse group of students at ASU with the goal of producing a new product or gadget that has real world application. We align on this goal and each offer a unique perspective in our tasks and projects.
 
 
 ## Product Mission Statement
