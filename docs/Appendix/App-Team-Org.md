@@ -7,7 +7,11 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Create a product that is ueseful to other students or the greater community.
+2. Design something of practical application.
+3. The product must be affordable to produce and for the consumer to purchase.
+4. The design should be open source if possible.
+5. All team memebers should learn some new part of the design and creation of products. 
 
 ## Communication Channels
 
@@ -76,6 +80,12 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Meeting recorder Aziyah Castellanoz  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader Christopher Plumley | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor Christopher Plumley  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+
+##Team Coordination & Accountability
+
+Assignments will be submitted upon group approval via text message. The group assignments will be submitted by the assignment leader, Christopher Plumley. Assignment tasks and responsibilites will be delegated by the assignment leader. Assignments will be shared via github or google documents in a shared location. 
+
+Missed contributions on assignments will be discussed in the weekly meeting. The group will determine by vote if there is just cuase for the missed work. The expectation is that communication will be given with enough time for the team to cover any work that a member can not complete. If a member is found to be repeatedy under performing, the teachers aid or the professor will be contacted and given the meeting minutes on the member and the assignments discussed. Members will self identify ways to assist others to help improve performance. 
 
 ## Conflict Recognition & Resolution
 
