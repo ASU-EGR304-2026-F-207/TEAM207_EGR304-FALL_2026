@@ -19,7 +19,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|CHristopher Plumley  | Text Message               | Zoom Meeting                | Meet In Person             |
+|Christopher Plumley  | Text Message               | Zoom Meeting                | Meet In Person             |
 |Aziyah Castelanoz    | Text Message               | Zoom Meeting                | Meet In Person             |
 |Dahryl Williams      | Text Message               | Zoom Meeting                | Meet In Person             |
 
@@ -38,16 +38,16 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | D,C,A  | - | - | - | - | - | - |
-| 9:00 AM | D,C,A  | - | - | - | - | - | - |
-| 10:00 AM | D,C,A  | - | - | - | - | - | - |
-| 11:00 AM | D,C,A  | - | - | - | - | - | - |
-| 12:00 PM | - |- | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | C | - | C | - | C | C | C |
-| 4:00 PM | C | - | C | - | C | C | C |
-| 5:00 PM | C | - | C | - | C | C | C |
+| 8:00 AM | D,C,A  | A | A | A | A | A | A |
+| 9:00 AM | D,C,A  | A | A | A | A | A | A |
+| 10:00 AM | D,C,A  | A | - | A | - | - | - |
+| 11:00 AM | D,C,A  | A | - | A | - | - | - |
+| 12:00 PM | - | A | - | - | - | - | - |
+| 1:00 PM | - | - | A | - | A | - | - |
+| 2:00 PM | - | - | A | - | A | - | - |
+| 3:00 PM | C,D,A | - | C,A | - | C | C,D,A | C,D,A |
+| 4:00 PM | C,D,A | - | C | - | C | C,D | C,D,A |
+| 5:00 PM | C,D,A | - | C,D | - | C,D | C,D | C,D,A |
 | 6:00 PM | - | - | - | - | - | - | - |
 | 7:00 PM | - | - | - | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
@@ -65,9 +65,9 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. We will use Google calandar to share meeting schedule.
+1. We will use Google calendar to share meeting schedule.
 1. The team meeting recorder will change or add the meetings.
-1. Preffered format is on Zoom meeting.
+1. Prefered format is on Zoom meeting.
 1. Notes from the meeting will be available for those unable to attend.
 
 ## Roles & Responsibilities
@@ -85,14 +85,18 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 Assignments will be submitted upon group approval via text message. The group assignments will be submitted by the assignment leader, Christopher Plumley. Assignment tasks and responsibilites will be delegated by the assignment leader. Assignments will be shared via github or google documents in a shared location. 
 
-Missed contributions on assignments will be discussed in the weekly meeting. The group will determine by vote if there is just cuase for the missed work. The expectation is that communication will be given with enough time for the team to cover any work that a member can not complete. If a member is found to be repeatedy under performing, the teachers aid or the professor will be contacted and given the meeting minutes on the member and the assignments discussed. Members will self identify ways to assist others to help improve performance. 
+Missed contributions on assignments will be discussed in the weekly meeting. The group will determine by vote if there is just cause for the missed work. The expectation is that communication will be given with enough time for the team to cover any work that a member can not complete. If a member is found to be repeatedly under performing, the teachers aid or the professor will be contacted and given the meeting minutes on the member and the assignments discussed. Members will self identify ways to assist others to help improve performance. 
 
 ## Conflict Recognition & Resolution
 
-Orderly conduct is expected. All team memebers are expected to contribute. Any conflicts will be recorded in team meeting notes. Repeated violations of this charter will result in third party mitigation by the professor or their assistants.
+Orderly conduct is expected. All team members are expected to contribute. Any conflicts will be recorded in team meeting notes. Repeated violations of this charter will result in third party mitigation by the professor or their assistants.
 
 
 ## Signatures
 
 Signed Christopher L. Plumley 9/3/2026
+
+Signed Dahryl J. Williams 9/3/2026
+
+Signed Aziyah C. 9/3/2026
 
