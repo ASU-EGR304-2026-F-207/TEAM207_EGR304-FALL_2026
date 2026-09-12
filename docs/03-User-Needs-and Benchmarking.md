@@ -31,8 +31,8 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I really love this clock. I've had it for over a year, it works great. It slowly wakes you up, instead of jarring you out of your sleep. Has some good sound options, instead of the blaring alarm. I also like that the time can be unlit during the night, so you don't get the glare of the clock numbers shining in your face all night, that can disrupt your sleep."| 1.  The clock is reliable. (explicit)                              |
-|                                                                                                                                                                                        | 2.  The clock worked for year without failure. (explicit) |
+| "I really love this clock. I've had it for over a year, it works great. It slowly wakes you up, instead of jarring you out of your sleep. Has some good sound options, instead of the blaring alarm. I also like that the time can be unlit during the night, so you don't get the glare of the clock numbers shining in your face all night, that can disrupt your sleep."| 1.  The clock is reliable. (explicit)                              | "We love this alarm clock! It makes it feel like the sun is rising, only at whatever time you want it to rise. The "sunrise" starts 30 minutes before the alarm goes off, we didn't realize that, but we like it, and it gradually gets brighter. You can adjust the intensity of the light, which is also a plus, so if you only need some light, or you need full on white light, you can have either! Then, when the alarm goes off, you have multiple sound options to choose from, the sound starts out low and gets louder as well. I purchased this for my collegebound child, this will "turn the lights on" for her before she has to get out of bed."
+|                                                                                                                                                                                        | 2.  The clock worked for year without failure. (explicit) | "I’m very excited about this alarm, there was another brand that I have had but there updated model took away some of my favorite features! This has them! I would say so far so easy to set up clock and alarms."
 |                                                                                                                                                                                        | 3.  The clock birghtness is adjustable. (explicit)                               |
 
 ##### Negative Comments
@@ -64,7 +64,103 @@ title: User Needs and Benchmarking
 
 ## Compiled list of user Needs
 
-1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+1. Students need products that work consistently every day.
+2.	Students need products that are easy to set up without technical expertise.
+3.	Students need products that fit comfortably in small dorm rooms.
+4.	Students need products that are durable and last for years.
+5.	Students need products that provide good value for their budget.
+6.	Students need adjustable brightness for different activities.
+7.	Students need products that are simple enough for first-time users.
+8.	Students need reliable charging for their devices.
+9.	Students need products that maximize limited desk space.
+10.	Students need lighting that is bright enough for studying.
+11.	Students need dependable alarms that always wake them.
+12.	Students need intuitive controls that require little learning.
+13.	Students need products with long battery life.
+14.	Students need products that continue working after frequent daily use.
+15.	Students need products that reduce desk clutter.
+16.	Students need products that combine multiple everyday functions.
+17.	Students need products that require minimal maintenance.
+18.	Students need USB charging options for multiple devices.
+19.	Students need products that are stable and do not tip over easily.
+20.	Students need clear instructions for setup and operation.
+21.	Students need touch controls that respond accurately.
+22.	Students need products that are easy to customize.
+23.	Students need products that are easy to reposition.
+24.	Students need lighting that reduces eye strain.
+25.	Students need products that consume little power.
+26.	Students need wireless connections that stay reliable.
+27.	Students need products that reconnect automatically after interruptions.
+28.	Students need products that charge multiple devices simultaneously.
+29.	Students need compact products that can be stored easily.
+30.	Students need interfaces that are easy to navigate.
+31.	Students need products that work immediately after setup.
+32.	Students need products that keep accurate time.
+33.	Students need products that do not randomly shut off.
+34.	Students need products that charge through compatible phone cases.
+35.	Students need products that support different study environments.
+36.	Students need adjustable viewing angles.
+37.	Students need customizable alarm schedules.
+38.	Students need customizable lighting preferences.
+39.	Students need multiple color temperature settings.
+40.	Students need bedside lighting that does not disturb roommates.
+41.	Students need products that operate quietly.
+42.	Students need clear sound quality.
+43.	Students need adjustable speaker volume.
+44.	Students need balanced bass and audio clarity.
+45.	Students need products that personalize their dorm room.
+46.	Students need products with an attractive appearance.
+47.	Students need products that create a relaxing atmosphere.
+48.	Students need products that complement dorm décor.
+49.	Students need products that feel premium.
+50.	Students need lighting that evenly illuminates workspaces.
+51.	Students need products that save outlet space.
+52.	Students need products that work on USB power.
+53.	Students need rechargeable products.
+54.	Students need charging indicators that clearly show status.
+55.	Students need products that retain settings after power loss.
+56.	Students need products that are easy to reset.
+57.	Students need products with clearly labeled features.
+58.	Students need reliable Bluetooth pairing.
+59.	Students need easy Wi-Fi setup.
+60.	Students need compatibility with smartphones.
+61.	Students need compatibility with voice assistants.
+62.	Students need products that continue functioning with limited internet.
+63.	Students need software updates that do not reduce performance.
+64.	Students need products that require little troubleshooting.
+65.	Students need sturdy materials.
+66.	Students need durable hinges and moving parts.
+67.	Students need products that survive transportation between dorms.
+68.	Students need products that withstand accidental bumps.
+69.	Students need dependable construction quality.
+70.	Students need products that justify their purchase price through longevity.
+71.	Students need products that fit crowded desks.
+72.	Students need products that can adapt to different room layouts.
+73.	Students need flexible positioning.
+74.	Students need customizable display settings.
+75.	Students need products that accommodate different sleep schedules.
+76.	Students need alarms that remain active until dismissed.
+77.	Students need products that perform consistently every use.
+78.	Students need products that do not lose power unexpectedly.
+79.	Students need music that does not overpower spoken content.
+80.	Students need speakers appropriate for shared living spaces.
+81.	Students need decorative lighting options.
+82.	Students need products that create a comfortable living environment.
+83.	Students need aesthetically pleasing products that remain functional.
+84.	Students need products that reduce stress during busy schedules.
+85.	Students need products that save time.
+86.	Students need products that improve everyday convenience.
+87.	Students need products that work as advertised.
+88.	Students need accurate product descriptions before purchasing.
+89.	Students need responsive customer support.
+90.	Students need warranties that provide confidence.
+91.	Students need companies that resolve issues quickly.
+92.	Students need clear return policies.
+93.	Students need products that synchronize correctly with smartphones.
+94.	Students need firmware that does not introduce new problems.
+95.	Students need products that are easy to maintain over time.
+96.	Students need products that minimize cable clutter.
+97.	Students need dependable charging indicators.
+98.	Students need products that remain stable despite a compact footprint.
+99.	Students need products that continue functioning after relocation.
+100. Students need products that make dorm living more enjoyable without adding complexity.
