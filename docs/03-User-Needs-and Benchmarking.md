@@ -14,7 +14,7 @@ title: User Needs and Benchmarking
 
 #### 1. [ANTDALIS Sunrise Alarm Clock](https://www.amazon.com/dp/B09YPNMWQ1?linkCode=ogi&tag=opr-lift-20&ascsubtag=%5Bartid%7C10072%5Bsrc%7Cmgu_ga_opr_md_bm_comm_org_us_g40929131&asc_source=google&asc_campaign=mgu_ga_opr_md_bm_comm_org_us_g40929131&asc_refurl=https%3A%2F%2Fwww.oprahdaily.com%2Flife%2Fg40929131%2Fdorm-room-essentials%2F) < (link to the product)
 
-![Photo of SunrisClock](docs\image\SunriseClock.jpg)
+![Photo of SunrisClock](SunriseClock.jpg)
 
 * Price: $39.99
 
