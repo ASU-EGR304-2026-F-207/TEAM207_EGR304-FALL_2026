@@ -43,7 +43,37 @@ title: User Needs and Benchmarking
 | "Parou de funcionar em menos de 1 mês de uso. Tentei contato com o vendedor via Amazon e não obtive resposta." | 2.  The clock is not reliable.(explicit) |
 |        "It was easier than I thought to setup. Initially, it worked well. The interval between the alarm starting and at full brightness is good. It's bright enough and loud enough, but I started noticing in the first couple of weeks that the alarm wasn't going off. (I bought this for my son) I'd check the alarm thinking we forgot to set it, but it was set. At first, it was once every other week or so. Over the next few months, I noticed this issue increase to it happening a couple times a week. This obviously defeats the purpose of an alarm clock. It drove me crazy thinking we either forgot to set the alarm or my son was getting up as soon as it goes off and turning it off before the volume was loud enough to hear. After trying to fix the issue unsuccessfully, I decided to watch the clock right before it was set to go off... and it didn't go off. It did nothing. And it was set! For the correct time! The last straw was when it starting flashing red in the middle of the night. That was creepy. Anyway, It's been 4 months now, so we can't return it. I can only inform others to be aware of potential issues. I will say, a feature I found when troubleshooting the issues of the gas-lighting alarm clock is that the clock kept the time and alarm settings after being unplugged and plugged back in ( no batteries). Whatever kind of sorcery that was, it saved me the hassle of setting it up again."  | 3.  The clock is easy to set up. (explicit)           |
 
-#### 2. Next Product goes here
+#### 2. [BALDR 2-Pack Indoor Thermometer Humidity Meter](https://www.amazon.com/gp/aw/d/B0GVN1NSTY?pd_rd_plhdr=t&hsa_cr_id=0&qid=1788919390&sr=1-1-5a5562f9-fdfd-4101-9f9d-d76aa9998432&i=aps&aref=sowZzQowuU&_encoding=UTF8&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=LtTg9&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=WXBC1SR3S0HZJSM0F7CS&pd_rd_wg=evvis&pd_rd_r=23a7589a-9687-4abd-980f-aa2221349390&th=1) < (link to the product)
+
+![Photo of SunrisClock](BALDR.jpg)
+
+* Price: $24.99
+
+* Vendor: Advanced NO.1
+
+* Description:About this item
+𝗦𝗢𝗟𝗔𝗥-𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗪𝗜𝗧𝗛 𝗕𝗔𝗧𝗧𝗘𝗥𝗬 𝗦𝗨𝗣𝗣𝗟𝗬- Say goodbye to constant battery swaps. Our innovative solar powered indoor thermometer harnesses available light to power the thermometer when light is present, and automatically switches to the built-in battery when it is dark. This efficient low-power design significantly extends power life, providing a sustainable and reliable hygrometer solution for your home
+𝗡𝗢 𝗦𝗘𝗧𝗨𝗣 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗗, 𝗡𝗢 𝗕𝗔𝗧𝗧𝗘𝗥𝗬 𝗥𝗘𝗣𝗟𝗔𝗖𝗘𝗠𝗘𝗡𝗧 𝗡𝗘𝗘𝗗𝗘𝗗- Ready to use out of the box-no apps, no WiFi, no settings, and no battery replacement needed. A clean, modern indoor thermometer that blends naturally into any room
+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗦𝗘𝗡𝗦𝗢𝗥 𝗔𝗖𝗖𝗨𝗥𝗔𝗖𝗬- Get data you can trust. Indoor temperature ranges from 14.2°F to 122°F , and humidity from 1% to 99%. Engineered with high-precision sensors, this temperature monitor delivers accuracy within +/-0.9°F and 3% RH for sensitive environments like plant greenhouses, wine cellars, or guitar rooms
+𝗦𝗢𝗙𝗧 𝗕𝗔𝗖𝗞𝗟𝗜𝗚𝗛𝗧 𝗙𝗢𝗥 𝗡𝗜𝗚𝗛𝗧𝗧𝗜𝗠𝗘 𝗖𝗟𝗔𝗥𝗜𝗧𝗬-No more fumbling in the dark. A simple press of the dedicated button activates a soft backlight, making this room thermometer easy to read at night without disturbing your sleep. 3.2 inch upgrade LCD display ensures clear visibility from a distance. NOTE: We recommend that you pull out the transparent tab at the bottom before pressing the backlight button
+𝗦𝗠𝗔𝗥𝗧 𝗠𝗔𝗫/𝗠𝗜𝗡 & 𝗖𝗢𝗠𝗙𝗢𝗥𝗧 𝗧𝗥𝗔𝗖𝗞𝗜𝗡𝗚-Stay ahead of environmental shifts. This humidity gauge automatically tracks 24-hour max min records with a simple 2-second clear bottom. The main unit refreshes every 10 seconds, so you always get near real-time data. Combined with intuitive DRY/COM/WET icons, you can instantly decide when to adjust your air quality
+𝗖𝗢𝗠𝗣𝗔𝗖𝗧 𝗗𝗘𝗦𝗜𝗚𝗡 𝗙𝗢𝗥 𝗘𝗩𝗘𝗥𝗬 𝗦𝗖𝗘𝗡𝗘- Built for versatility. Whether on a nightstand or wall-mounted, this digital hygrometer fits seamlessly into any decor. With quick F/C switching, it's a must-have house thermometer for nurseries, offices, and indoor gardens
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "These are great. I bought 2 packs, thinking I only ordered 2. I gave away two. All 4 read within 1 degree of each other. Would highly recommend"| 1.  The device is accurate. (explicit)
+| "I really like these. Doesn’t take up much space. It was worth what I paid for it" | 2.  The device is easy to use. (explicit) |
+| "They are easy to use, accurate, and I love that they’re solar-powered. Perfect for keeping track of the temperature and humidity in different rooms. Highly recommend!" |  3.  The device is easy to use. (explicit)      |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "It doesn’t glow unless you push a button on it’s back which is impossible to see in dark." | 1.  The device is difficult to use. (explicit) | "Received these 1 week ago. Pulled the plastic tabs from both, set them both near a window with natural light and left for a trip. I’ve come back and only one of them is working. The other is dead" | 2.  The devide is not reliable.(explicit) |
+|        "Received these 1 week ago. Pulled the plastic tabs from both, set them both near a window with natural light and left for a trip. I’ve come back and only one of them is working. The other is dead"  | 3.  The device does not work. (explicit)           |
+
 
 ### Selected Products
 
