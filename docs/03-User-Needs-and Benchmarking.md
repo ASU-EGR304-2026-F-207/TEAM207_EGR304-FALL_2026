@@ -80,7 +80,7 @@ title: User Needs and Benchmarking
 
 #### 3. [Waveshare 13.3 Magic Mirror Mini-Computer](https://www.robotshop.com/products/133in-cm4-magic-mirror-mini-computer-speech-assistant-touch-w-o-cm4-us?gad_source=1&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwbk9lAG88qNODr5XLnw3hDg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4KuWFTn92Vl-OTcXuFsh9mMMgr4Co0J9_gJI1ezlz-qQnJJ1UrmPhoCbLUQAvD_BwE)
 
-![Photo of Waveform Magic Mirror](magicmirror.png)
+![Photo of Waveform Magic Mirror](magicmirror.png) < (link to the product)
 
 *Price: $233.02
 
@@ -109,7 +109,36 @@ title: User Needs and Benchmarking
 |"Okay, it’s flashy and kinda smart, but the touch response is hit or miss. Sometimes it doesn’t register my swipe. Annoying." | 2. Screen doesn't register some touches (explicit)
 |"The screen is nice, but setup was a nightmare. Took me 3 days to get the voice assistant working. Also, the touch isn’t always responsive." | 3. Microphone doesn't always pick up customer voice (explicit)
 
-#### 4. Next Product goes here
+#### 4. [Echo Show 5](https://www.homedepot.com/p/Echo-Show-5-3rd-Gen-Smart-Display-with-Deeper-Bass-and-Clearer-Sound-Charcoal-B09B2SBHQK/326245308) < (link to the product)
+
+![Photo of Echo Show 5]()
+
+* Price: $99.99
+
+* Vendor: Amazon
+
+* Description:About this item
+[5.5 inch Touch Screen] This is where all the information such as emails, the weather, and the users personal notification. The screen is also touch screen to allow for an easy and smooth interaction with the device
+[Camera] The 2 MP camera with built in shutter allows the user to video chat with family or friends, play interactive games, and takes videos or pictures
+[Microphone] Using the microphone is the main way to interact with the device and to talk to the built in AI. This makes the experience of using the device seamless and hands free 
+[Speaker] Full range 1.75 inch built in speaker allows for clear audio for the user to hear their music, video chats, and to listen to the built in amazon AI
+[Amazon Sidewalk] This feature allows the device to connect to other devices over the Wi-Fi such as smart lights or security cameras.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|"Alexa + is all through my home and garage. Primarily because I am disabled and this was the easiest way to obtain help if I needed it wherever I fell. It all works well, however; I will get responses from a device on the other side of the house from where I made a request. Specifically when setting an alarm. Why it does this, no one seems to know. I am certain that the device in the guest bedroom cannot hear me when I whisper in the master bedroom on the other side of the house. Yet “she” will set the alarm up to alert the “ghost” in the guest bedroom while I, on the other hand, sleep peacefully through the scheduled alarm in the master bedroom." | 1. The device is easy to use (explicit)  
+|"Okay, we’ve been super impressed with this product! I’ll break it down into categories, but here’s a quick synopsis if you don’t want to read it all: great quality sound, loud volume, vibrant display, easy to use & customize Sound: I was a little apprehensive of the sound quality and volume level with the size that it was, but boy was I proven wrong. It’s got great audio quality for the average home user, and it can crank out some volume if you need it to! We rarely go above 50% and that’s even when we’re having impromptu family dance parties in the kitchen. Display: The quality of the images is great! We minimized the amount of information that was on the main display to keep things simple, but love that we can upload photos of our family to have rotating in there." | 2. The speakers a loud and good quality (explicit)   
+|"This smart display has been a great addition to my kitchen counter. The sound quality is impressively clear, and it gets plenty loud — I can hear music, news, or timers clearly even with the sink running or the exhaust fan on. The touchscreen is what really sets it apart for everyday kitchen use. Being able to quickly glance at or tap through the weather, alerts, and other info without having to ask out loud is really convenient, especially when my hands are busy cooking. Getting local weather updates and even things like heat advisories displayed right on the screen is a nice touch too — I don’t have to pull out my phone to check." | 3. The device is convenient (explicit) 
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|"Can't Turn Off Ads, I would have given this device a much higher rating for its size, quality screen, sound quality, and configuration, but Amazon ads are force fed at least every 2 to 5 minutes and these CANNOT be turned off. Was thinking of using this as an alarm clock / Blink door bell chime. The live weather info would be useful for starting daily commutes....if you can get past the ads.  Had I known about the force-fed ads, I would NOT have purchased this device. I wish somebody could have warned me about this so called "feature" before purchasing it. Disappointing paperweight to an otherwise useful product." | 1. The ads affect the user experience (explicit)  
+|"While they look and sound great, they're painstakingly slow. And I'm not the only one who has experienced this. Sometimes I'll try to get Alexa to play a song, and instead of the Show 5 which is right next to me, the Echo Pop in the living room will do what I asked. Keep in mind that I haven't had this issue with any other Echo, these ones are sluggish even to pick up your prompts."| 2. The microphone is inaccurate 
+|"Honestly, I really wanted to like this thing so I can easily see who is at my front door on my Ring camera from my kitchen when I'm cooking and listen to music, but it does not function well for either of those 2 options, as well as others. Personally, it seems like the tech is trash. It has far too many glitches and either needs a software update, or possibly my device is just trash. 1. It constantly disconnects from wifi or needs time to buffer when there is nothing wrong with the wifi. Such as playing a song and stopping to buffer every 10 seconds when my other Amazon device is still playing fine and doesn't have to stop to buffer, at all. And they're all located on the same floor. For context, I have an older echo dot as well, and that device never had the same issues as this one, other than obvious wifi outages, my echo dot never freezes or needs to buffer a song multiple times before it finally tells me "I'm having trouble playing this song" and moves on or just stops playing entirely."| 3. The device doesn't connect properly (explicit) 
 
 #### 5. Next Product goes here
 
