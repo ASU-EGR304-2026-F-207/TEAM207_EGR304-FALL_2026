@@ -146,10 +146,119 @@ title: User Needs and Benchmarking
 ## Organized Need Statements
 
 ### First Placement
-
+Students need products that work consistently every day.
 ### Grouped with categories
-
-### Ranked
+Reliability & Performance
+Students need products that work consistently every day.
+Students need products that continue working for years without failure.
+Students need dependable charging that works overnight.
+Students need reliable alarms that always activate at the scheduled time.
+Students need technology that functions immediately after setup.
+Students need clocks that keep accurate time without drifting.
+Students need products that do not randomly restart or shut off.
+Students need alarms that stay on until they intentionally dismiss them.
+Students need devices they can trust for important daily routines.
+Students need devices that perform the same way every time they are used.
+Space Efficiency
+Students need products that fit comfortably in small dorm rooms.
+Students need devices that maximize limited surface space.
+Students need multifunctional products that reduce desk clutter.
+Students need products that combine multiple everyday functions.
+Students need foldable or compact products for storage.
+Students need equipment that can be stored when not in use.
+Students need products that fit on crowded desks.
+Students need dorm-friendly devices that do not require large furniture.
+Students need products that reduce the number of cables on their desk.
+Students need products that remain stable despite their small footprint.
+Charging & Power
+Students need fast and dependable phone charging.
+Students need rechargeable products with long battery life.
+Students need USB charging options for modern devices.
+Students need products with low power consumption.
+Students need products that charge multiple devices simultaneously.
+Students need charging that works through compatible phone cases.
+Students need products that minimize the number of required outlets.
+Students need portable devices that can operate from USB power.
+Students need charging indicators that clearly show charging status.
+Students need products that do not lose power unexpectedly.
+Audio
+Students need alarms loud enough to wake heavy sleepers.
+Students need products that reduce unwanted noise during operation.
+Students need speakers that produce clear sound.
+Students need adjustable audio volume.
+Students need sound quality that enhances entertainment.
+Students need speakers with balanced bass and clarity.
+Students need music that does not overpower spoken content.
+Students need audio that is appropriate for shared living spaces.
+Customization & Personalization
+Students need products that adapt to their daily routines.
+Students need products that support different study environments.
+Students need adjustable viewing angles.
+Students need customizable alarm schedules.
+Students need personalized lighting preferences.
+Students need flexible positioning for different room layouts.
+Students need customizable display settings.
+Students need products that accommodate different sleep schedules.
+Ease of Use
+Students need products that are easy to set up without technical expertise.
+Students need products that are simple enough for first-time users.
+Students need intuitive controls that require little learning.
+Students need devices that require minimal maintenance.
+Students need clear instructions for installation and operation.
+Students need touch controls that respond accurately.
+Students need settings that are easy to customize.
+Students need interfaces that are easy to navigate.
+Students need products that are easy to reset when problems occur.
+Students need features that are easy to find and understand.
+Lighting
+Students need adjustable brightness for different activities.
+Students need lighting that is bright enough for studying.
+Students need lighting that is easy to reposition.
+Students need lighting that is comfortable during late-night studying.
+Students need lighting that does not strain their eyes.
+Students need multiple color temperatures for comfort.
+Students need bedside lighting that does not disturb roommates.
+Students need lighting that creates a relaxing atmosphere.
+Students need lighting that evenly illuminates workspaces.
+Students need decorative lighting that personalizes their room.
+Connectivity & Smart Features
+Students need wireless connections that are easy to pair.
+Students need products that reconnect automatically after interruptions.
+Students need Bluetooth connections that remain stable.
+Students need Wi-Fi setup that is quick and reliable.
+Students need products that integrate easily with voice assistants.
+Students need smart products that remain functional even if internet access is limited.
+Students need technology that does not require constant software updates.
+Students need smart features that work without frequent troubleshooting.
+Students need devices that synchronize correctly with smartphones.
+Students need firmware updates that do not break functionality.
+Durability
+Students need products that withstand frequent daily use.
+Students need stable devices that do not tip over easily.
+Students need sturdy construction that does not feel flimsy.
+Students need durable hinges and moving parts.
+Students need products that survive accidental bumps and movement.
+Students need products made from quality materials.
+Students need products that justify their purchase price through longevity.
+Students need devices that continue functioning after transportation.
+Aesthetics & Dorm Living
+Students need technology that helps make a dorm feel more personal.
+Students need attractive products that do not sacrifice functionality.
+Students need products that complement dorm room décor.
+Students need compact products that still look premium.
+Students need products that create a comfortable living environment.
+Students need aesthetically pleasing products that also serve practical purposes.
+Customer Experience
+Students need products that provide good value for their budget.
+Students need dependable products that reduce stress during busy school schedules.
+Students need technology that saves time rather than creating additional work.
+Students need products that work as advertised.
+Students need accurate product descriptions before purchasing.
+Students need products backed by responsive customer support.
+Students need warranties that provide confidence in their purchase.
+Students need companies that resolve technical issues quickly.
+Students need clear return policies when products fail.
+Students need everyday dorm products that improve convenience without adding complexity.
 
 ## Compiled list of user Needs
 
