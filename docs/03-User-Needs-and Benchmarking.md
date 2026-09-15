@@ -78,7 +78,36 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 3. Next Product goes here
+#### 3. [waveshare 13.3 Magic Mirror Mini-Computer](https://www.robotshop.com/products/133in-cm4-magic-mirror-mini-computer-speech-assistant-touch-w-o-cm4-us?gad_source=1&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwbk9lAG88qNODr5XLnw3hDg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4KuWFTn92Vl-OTcXuFsh9mMMgr4Co0J9_gJI1ezlz-qQnJJ1UrmPhoCbLUQAvD_BwE)
+
+![Photo of Waveform Magic Mirror]()
+
+*Price: $233.02
+
+*Vendor: RobotShop inc.
+
+*Description: About this Item  
+[Embedded Raspberry Pi CM4] This is the brain of the computer which will handle all the user code and will allow them to pick ans choose what they want on thr screen
+[IPS Display 1920x1080] This is the screen of the device where eveything will post and display the users personalized set up. The resolution provides a clear and high definition picture to 
+[Toughned Glass Captive Touch Panel] This is the main way to interact with the device and supports up to 10-point touch which will provide a smooth interaction with the device
+[One Way Mirror] The device is multifunctional and will also work as a mirror while inactive or you can have both functions running at once
+[Embedded Microphone and Speaker] The device is supported by Google Assistant so the user can use the embedded microphone to speak/command the device. The dual track Ferrite Hi-Fi speakers allow the user to hear the Google AI and other media such as music 
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|"Got it for my mom, but she couldn’t figure out how to change the display orientation. Instructions are unclear." | 1. Instruction are too complicated to follow or unclear (explicit)
+|"Okay, it’s flashy and kinda smart, but the touch response is hit or miss. Sometimes it doesn’t register my swipe. Annoying." | 2. Screen doesn't register some touches (explicit)
+|"The screen is nice, but setup was a nightmare. Took me 3 days to get the voice assistant working. Also, the touch isn’t always responsive." | 3. Microphone doesn't always pick up customer voice (explicit)
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|
+|
+|
 
 #### 4. Next Product goes here
 
