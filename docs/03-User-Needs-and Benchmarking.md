@@ -80,7 +80,7 @@ title: User Needs and Benchmarking
 
 #### 3. [Waveshare 13.3 Magic Mirror Mini-Computer](https://www.robotshop.com/products/133in-cm4-magic-mirror-mini-computer-speech-assistant-touch-w-o-cm4-us?gad_source=1&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwbk9lAG88qNODr5XLnw3hDg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4KuWFTn92Vl-OTcXuFsh9mMMgr4Co0J9_gJI1ezlz-qQnJJ1UrmPhoCbLUQAvD_BwE)
 
-![Photo of Waveform Magic Mirror]()
+![Photo of Waveform Magic Mirror](magicmirror.png)
 
 *Price: $233.02
 
