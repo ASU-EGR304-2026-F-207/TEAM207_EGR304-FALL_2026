@@ -140,8 +140,38 @@ title: User Needs and Benchmarking
 |"While they look and sound great, they're painstakingly slow. And I'm not the only one who has experienced this. Sometimes I'll try to get Alexa to play a song, and instead of the Show 5 which is right next to me, the Echo Pop in the living room will do what I asked. Keep in mind that I haven't had this issue with any other Echo, these ones are sluggish even to pick up your prompts."| 2. The microphone is inaccurate 
 |"Honestly, I really wanted to like this thing so I can easily see who is at my front door on my Ring camera from my kitchen when I'm cooking and listen to music, but it does not function well for either of those 2 options, as well as others. Personally, it seems like the tech is trash. It has far too many glitches and either needs a software update, or possibly my device is just trash. 1. It constantly disconnects from wifi or needs time to buffer when there is nothing wrong with the wifi. Such as playing a song and stopping to buffer every 10 seconds when my other Amazon device is still playing fine and doesn't have to stop to buffer, at all. And they're all located on the same floor. For context, I have an older echo dot as well, and that device never had the same issues as this one, other than obvious wifi outages, my echo dot never freezes or needs to buffer a song multiple times before it finally tells me "I'm having trouble playing this song" and moves on or just stops playing entirely."| 3. The device doesn't connect properly (explicit) 
 
-#### 5. Next Product goes here
+#### 5. [7 in 1 Study Desk Lamp](https://www.amazon.com/dp/B074J4YNGF/?tag=dqmedia-20)
 
+**Keywords:** "multi-use lamp"
+
+**Search Results Link:** [Search Results Link](https://www.amazon.com/dp/B074J4YNGF/?tag=dqmedia-20)
+
+![Photo of Ledlamp](LedLamp.jpg)
+
+* Price: $21.75
+
+* Vendor: ERAY
+
+* Description: Multi-functions : 7 in 1, desk lamp with USB charging port, 256 color changing base, pencil holder, clock, calendar and LCD screen, it meets all your requirements.
+USB Port: Output 5V/2A USB charging port,so you can spend less time to remain full electricity for your mobile device.(Iphone, samsung or power bank)
+Colorful light: Touch the spectrum ring to adjust 256 color changing base, create any variety of atmosphere at the night. If hold down the spectrum ring for 2 seconds, the color would cycle automatically, now you can color your night and life with this magic lamp.
+Best gift for children: Large capacity pencil holder can also help you to place something, dimmable reading lamp with 3-Levels of brightness, suitable for students to use as a led desk reading light.
+
+#### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|I have bought couple of led lamps in the past few years. This lamp is my favorite. The following is why I like it 1)brightness adjustment by simply tapping the button in center. The light is bright enough in my working area and most importantly my eyes feel very comfortable under its light no matter I read books, work on a laptop or scratch on a paper. 2) multipurpose: it serves as a lamp of course. It also serves as a pen holder so that I can get rid of my old pen holder to make the table very clean. It also has a clock, date and thermometer. I don't need my phone anymore to check time when I'm reading. The clock has its own backlight which can be turned on and off. It is equipped with a USB charger as well. Its output current is 2A instead of 1A in my other lamps with USB. larger output current reduces the charging time for devices with large battery such as IPAD. 3) The colorful night light is quite interesting. Its color can be changed by circling the center button. My son loves playing with it. This lamp is really a piece of work. it does not just light my room. it make my room beautiful.|1.Comfortable light for reading and working (explicit)
+|I purchased this for my daughter and her dorm room in May. She took it to school for her summer session and it was the best lamp ever! 3 brightness levels of the lamp, multiple color setting of the glow lights and a clock. She kept it on her dorm desk to hold her pens and have a work lamp. Unfortunately the lamp stopped working after her 6 weeks of summer session and past the return date Amazon sets. Amazon was awesome and put me in contact with the seller directly who immediately rectify the issue sending out a new lamp. This lamp is super cool and for the price you do expect it to last longer than six weeks, therefore superior customer service is vital and that is exactly what I got. I will update this review if the replacement stops working in a short amount of time. I did test it before sending it to my daughter and it works beautifully so time will tell.|2.Good lamp for dorm desk(explicit
+|This lamp was wonderful, and we would have liked to have kept it. However, the alarm feature was a deal breaker. It was purchased primarily as a reading lamp and alarm clock. We found that all the controls for the alarm are on the bottom of the lamp. This would be fine if there was a snooze or cancel feature available on the top for the mornings. There was simply no way my wife would be happy with lifting the lamp every morning, blurry eyed, while trying to find the snooze button. It's a shame because every other aspect of the lamp is really cool.|3.Want snooze/cancel on top of lamp (explicit)
+
+#### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|The lamp part is very bright and it looks cool. However, the digital clock is very dim. It works but it’s not easily visible in day light. We changed the battery but it didn’t change the brightness. The clock only works by battery but the lamp works by plug.| 1. Clock display should be bright and easily visible in daylight (explicit)
+|Total waste of money I have it in a camper when to use it all at work was light it was insufficient to charge anything on the USB it was too slow for anything to charge the time ran fast and now all it does blank I can't keep time or anything I tried to get it exchanged but I live in a rural part of the area nearest place is 30 miles from here which I can't get to so I'm afraid I'm stuck with it the light works though LOL|2. USB charger was too slow(explicit)
+|Cons: Alarm controls are on the bottom of the lamp. Too hard to find in the dark. No, turning on the lamp doesn't help--they are on the BOTTOM. USB port worked poorly--connection was loose so can't use it. Sometimes the light does not shut off when you tap the switch. Overall, poorly designed and does not work well. Pros: still use it for a bedside reading lamp, like the flexible neck. Other than that, it does not do what I purchased it for: an extra charging port and an alarm clock. Don't buy it.|3. Too hard to find controls(explicit)
 
 ## Organized Need Statements
 
