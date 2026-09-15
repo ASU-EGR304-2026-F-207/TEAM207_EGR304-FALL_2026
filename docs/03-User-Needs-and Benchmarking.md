@@ -72,7 +72,7 @@ title: User Needs and Benchmarking
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | "It doesn’t glow unless you push a button on it’s back which is impossible to see in dark." | 1.  The device is difficult to use. (explicit) 
-| "Received these 1 week ago. Pulled the plastic tabs from both, set them both near a window with natural light and left for a trip. I’ve come back and only one of them is working. The other is dead" | 2.  The devide is not reliable.(explicit) 
+| "Received these 1 week ago. Pulled the plastic tabs from both, set them both near a window with natural light and left for a trip. I’ve come back and only one of them is working. The other is dead" | 2.  The device is not reliable.(explicit) 
 |        "Received these 1 week ago. Pulled the plastic tabs from both, set them both near a window with natural light and left for a trip. I’ve come back and only one of them is working. The other is dead"  | 3.  The device does not work. (explicit)           |
 
 
@@ -111,7 +111,7 @@ title: User Needs and Benchmarking
 
 #### 4. [Echo Show 5](https://www.homedepot.com/p/Echo-Show-5-3rd-Gen-Smart-Display-with-Deeper-Bass-and-Clearer-Sound-Charcoal-B09B2SBHQK/326245308) < (link to the product)
 
-![Photo of Echo Show 5]()
+![Photo of Echo Show 5](echoshow.png)
 
 * Price: $99.99
 
