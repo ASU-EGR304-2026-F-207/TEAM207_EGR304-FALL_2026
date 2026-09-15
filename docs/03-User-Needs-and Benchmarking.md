@@ -78,7 +78,7 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 3. [waveshare 13.3 Magic Mirror Mini-Computer](https://www.robotshop.com/products/133in-cm4-magic-mirror-mini-computer-speech-assistant-touch-w-o-cm4-us?gad_source=1&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwbk9lAG88qNODr5XLnw3hDg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4KuWFTn92Vl-OTcXuFsh9mMMgr4Co0J9_gJI1ezlz-qQnJJ1UrmPhoCbLUQAvD_BwE)
+#### 3. [Waveshare 13.3 Magic Mirror Mini-Computer](https://www.robotshop.com/products/133in-cm4-magic-mirror-mini-computer-speech-assistant-touch-w-o-cm4-us?gad_source=1&gad_campaignid=20145188159&gbraid=0AAAAAD_f_xwbk9lAG88qNODr5XLnw3hDg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4KuWFTn92Vl-OTcXuFsh9mMMgr4Co0J9_gJI1ezlz-qQnJJ1UrmPhoCbLUQAvD_BwE)
 
 ![Photo of Waveform Magic Mirror]()
 
@@ -87,11 +87,19 @@ title: User Needs and Benchmarking
 *Vendor: RobotShop inc.
 
 *Description: About this Item  
-[Embedded Raspberry Pi CM4] This is the brain of the computer which will handle all the user code and will allow them to pick ans choose what they want on thr screen
-[IPS Display 1920x1080] This is the screen of the device where eveything will post and display the users personalized set up. The resolution provides a clear and high definition picture to 
-[Toughned Glass Captive Touch Panel] This is the main way to interact with the device and supports up to 10-point touch which will provide a smooth interaction with the device
+[Embedded Raspberry Pi CM4] This is the brain of the computer which will handle all the user code and will allow them to pick ans choose what they want on the screen
+[IPS Display 1920x1080] This is the screen of the device where everything will post and display the users personalized set up. The resolution provides a clear and high definition picture to 
+[Toughened Glass Captive Touch Panel] This is the main way to interact with the device and supports up to 10-point touch which will provide a smooth interaction with the device
 [One Way Mirror] The device is multifunctional and will also work as a mirror while inactive or you can have both functions running at once
 [Embedded Microphone and Speaker] The device is supported by Google Assistant so the user can use the embedded microphone to speak/command the device. The dual track Ferrite Hi-Fi speakers allow the user to hear the Google AI and other media such as music 
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|"Finitions plus que moyennes, malgré une bonne qualité d'image" | 1. The screen on the device is good quality (explicit)  
+|"Muy buena resolución!" | 2. The resolution of the screen is nice (explicit)  
+|"Erfüllt im Wesentlichen meine Erwartungen Der Monitor erfüllt im Wesentlichen die Erwartungen, die ich im Vorfeld des Kaufes hatte. Er reißt niemanden vom Hocker, aber funktioniert und tut was er soll. pro: - Gutes scharfes Bild - funktionierte tatsächlich plug&play unter Windows 10, auch die Touch-Funktion - Kabeleinführung ist etwas gekapselt = Schutz der Kabel - diverse VESA-Aufhängemöglichkeiten zum Anbringen von Halterungen - Aus-/Anschalter sowie einige andere Schalter an der Rückseite vorhanden contra:- sehr starke Lichthöfe bei dunklem Bild Stützständer nicht in der Position verstellbar" | 3. The device works just as the customer expected
 
 ##### Negative Comments
 
@@ -100,14 +108,6 @@ title: User Needs and Benchmarking
 |"Got it for my mom, but she couldn’t figure out how to change the display orientation. Instructions are unclear." | 1. Instruction are too complicated to follow or unclear (explicit)
 |"Okay, it’s flashy and kinda smart, but the touch response is hit or miss. Sometimes it doesn’t register my swipe. Annoying." | 2. Screen doesn't register some touches (explicit)
 |"The screen is nice, but setup was a nightmare. Took me 3 days to get the voice assistant working. Also, the touch isn’t always responsive." | 3. Microphone doesn't always pick up customer voice (explicit)
-
-##### Positive Comments
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-|
-|
-|
 
 #### 4. Next Product goes here
 
