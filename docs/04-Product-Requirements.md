@@ -4,7 +4,7 @@ title: Product Requirements
 
 ## Project Objective
 
-The primary objective of this project is to reach out to all students but mainly to those living the dorm life and improve students stress from academic deadlines and uncomfortable room climates. We aim to research the aspects of the Arizona State University dorm life to identify any areas of need or improvement. To accomplish our goal of improving student dorm life we plan to design a dorm hub with adaptive technology to update students of their upcoming assignments, the humidity or air condition based on the temperature of the dorm, and adaptive lighting to assist with creating healthy sleep cycles or wake up routines. 
+The primary objective of this project is to reach out to all students but mainly to those living the dorm life and improve students stress from academic deadlines and uncomfortable room climates. We aim to research the aspects of the Arizona State University dorm life to identify any areas of need or improvement. To accomplish our goal of improving student dorm life we plan to design a dorm hub with adaptive technology to update students of their upcoming assignments, the humidity or air condition based on the temperature of the dorm, and adaptive lighting to assist with creating healthy sleep cycles or wake up routines. hello
 
 
 ## Stakeholders
