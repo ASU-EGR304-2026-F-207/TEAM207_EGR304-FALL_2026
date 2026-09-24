@@ -166,9 +166,11 @@ Visual Model
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
 
-**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
+**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with upcoming assignments, create a healthy sleep schedule or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. The main problems we are trying to solve for these students are the intense academic deadline stress, uncomfortable or unmonitored room climates, and disrupted sleep schedules caused by the harsh dorm lighting. To solve these issues, our design integrates a compact all-in-one smart desktop dorm hub designed specifically for ASU students desk or nightstands. The device concentrates on schedule management, ambient environmental sensing, and wellness lighting into one interface to eliminate desk clutter while maintain a healthy daily routine.
 
-**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forcast before walking to class.
+Throughout the day students will interact with the device though the touch screen display which will showcase the current time, local weather, room temperature, humidity levels, and real time Canvas assignment alerts. Instead of having to wake up to a harsh alarm, students can now wake up to an artificial sunlight paired with bird chirping audio simulated from the integrated multi-spectrum LED light bar and the speakers. Throughout the late night study sessions, students can adjust the lighting as they please to ease eye strain or roommate disturbance.   
+
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class.
 
 **Key Problems Solved:** IInsert core problems solved]
 ####
