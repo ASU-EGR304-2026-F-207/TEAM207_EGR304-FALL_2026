@@ -18,108 +18,109 @@ For each user need and product requirement, brainstorm 5 different product featu
 |                                   .. |   ..    | ..                                                                          |
 
 ## Step Three
+| Compiled List of User Needs                                                                 | Functions                                                       | Rank |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---: |
+| 1. Students need products that work consistently every day.                                 | At least one signal input (temp, humidity, light, audio)        |    1 |
+| 2. Students need products that are easy to set up without technical expertise.              | at least 2 outputs (lighting, clock/screen display, fan)        |    2 |
+| 3. Students need products that fit comfortably in small dorm rooms.                         | Dual power source                                               |    3 |
+| 4. Students need products that are durable and last for years.                              | Removable modular units                                         |    4 |
+| 5. Students need products that provide good value for their budget.                         | Impact resistant                                                |    5 |
+| 6. Students need adjustable brightness for different activities.                            | Push button interface                                           |      |
+| 7. Students need products that are simple enough for first-time users.                      | Dial to change brightness                                       |      |
+| 8. Students need reliable charging for their devices.                                       | Familiar interface, few butons and knobs                        |      |
+| 9. Students need products that maximize limited desk space.                                 | 2 USB for charging and comms                                    |      |
+| 10. Students need lighting that is bright enough for studying.                              | Small footprint                                                 |      |
+| 11. Students need dependable alarms that always wake them.                                  | LEDs > 500lumins                                                |      |
+| 12. Students need intuitive controls that require little learning.                          | Low power alert                                                 |      |
+| 13. Students need products with long battery life.                                          | Dual power source                                               |      |
+| 14. Students need products that continue working after frequent daily use.                  | Impact resistant                                                |      |
+| 15. Students need products that reduce desk clutter.                                        | Modular design, bulb, batteries, controls, and compute          |      |
+| 16. Students need products that combine multiple everyday functions.                        | Wider base                                                      |      |
+| 17. Students need products that require minimal maintenance.                                | web page setup via usb                                          |      |
+| 18. Students need USB charging options for multiple devices.                                | web page setup via usb                                          |      |
+| 19. Students need products that are stable and do not tip over easily.                      | flexible light                                                  |      |
+| 20. Students need clear instructions for setup and operation.                               | multispectrum light sources                                     |      |
+| 21. Students need touch controls that respond accurately.                                   | blutooth enabled                                                |      |
+| 22. Students need products that are easy to customize.                                      | multiple usb charging plugs                                     |      |
+| 23. Students need products that are easy to reposition.                                     | small footprint                                                 |      |
+| 24. Students need lighting that reduces eye strain.                                         | simple push button setup clock and lights with dial             |      |
+| 25. Students need products that consume little power.                                       | turn on with no power switch                                    |      |
+| 26. Students need wireless connections that stay reliable.                                  | dual power supply                                               |      |
+| 27. Students need products that reconnect automatically after interruptions.                | wireless charging pad                                           |      |
+| 28. Students need products that charge multiple devices simultaneously.                     | mood lighting                                                   |      |
+| 29. Students need compact products that can be stored easily.                               | html based alarm settings available                             |      |
+| 30. Students need interfaces that are easy to navigate.                                     | Capable to turn off all lights for sleep settings               |      |
+| 31. Students need products that work immediately after setup.                               | quiet button press with physical feedback                       |      |
+| 32. Students need products that keep accurate time.                                         | wide band speakers                                              |      |
+| 33. Students need products that do not randomly shut off.                                   | physical speaker volume dial.                                   |      |
+| 34. Students need products that charge through compatible phone cases.                      | html based audio customization                                  |      |
+| 35. Students need products that support different study environments.                       | custom mood lighting                                            |      |
+| 36. Students need adjustable viewing angles.                                                | stamped metal body instead of plastic                           |      |
+| 37. Students need customizable alarm schedules.                                             | haptic push button with led flash                               |      |
+| 38. Students need customizable lighting preferences.                                        |                                                                 |      |
+| 39. Students need multiple color temperature settings.                                      |                                                                 |      |
+| 40. Students need bedside lighting that does not disturb roommates.                         |                                                                 |      |
+| 41. Students need products that operate quietly.                                            |                                                                 |      |
+| 42. Students need clear sound quality.                                                      |                                                                 |      |
+| 43. Students need adjustable speaker volume.                                                |                                                                 |      |
+| 44. Students need balanced bass and audio clarity.                                          |                                                                 |      |
+| 45. Students need products that personalize their dorm room.                                |                                                                 |      |
+| 46. Students need products with an attractive appearance.                                   |                                                                 |      |
+| 47. Students need products that create a relaxing atmosphere.                               |                                                                 |      |
+| 48. Students need products that complement dorm décor.                                      |                                                                 |      |
+| 49. Students need products that feel premium.                                               |                                                                 |      |
+| 50. Students need lighting that evenly illuminates workspaces.                              |                                                                 |      |
+| 51. Students need products that save outlet space.                                          |                                                                 |      |
+| 52. Students need products that work on USB power.                                          |                                                                 |      |
+| 53. Students need rechargeable products.                                                    |                                                                 |      |
+| 54. Students need charging indicators that clearly show status.                             | LED charging indicator                                          |      |
+| 55. Students need products that retain settings after power loss.                           | product retains user settings for atleadt 30 days without power |      |
+| 56. Students need products that are easy to reset.                                          | clearly labeled reset control/can be used without power         |      |
+| 57. Students need products with clearly labeled features.                                   | visible labels or symbols indicating funtion                    |      |
+| 58. Students need reliable Bluetooth pairing.                                               | succesfully bluetooth pair in 30 seconds                        |      |
+| 59. Students need easy Wi-Fi setup.                                                         | WiFi setup in 5 minutes or less                                 |      |
+| 60. Students need compatibility with smartphones.                                           | compatible with IOS or android                                  |      |
+| 61. Students need compatibility with voice assistants.                                      | one voice assistant                                             |      |
+| 62. Students need products that continue functioning with limited internet.                 | core fucntions operate offline                                  |      |
+| 63. Students need software updates that do not reduce performance.                          | updates improve/maintain product performance                    |      |
+| 64. Students need products that require little troubleshooting.                             | no more than 1 troubleshooting step                             |      |
+| 65. Students need sturdy materials.                                                         |                                                                 |      |
+| 66. Students need durable hinges and moving parts.                                          | components withstand atleast 10k operating cycles               |      |
+| 67. Students need products that survive transportation between dorms.                       | withstand repeated transportation                               |      |
+| 68. Students need products that withstand accidental bumps.                                 |                                                                 |      |
+| 69. Students need dependable construction quality.                                          |                                                                 |      |
+| 70. Students need products that justify their purchase price through longevity.             | service life at least 3 years                                   |      |
+| 71. Students need products that fit crowded desks.                                          | compact                                                         |      |
+| 72. Students need products that can adapt to different room layouts.                        | multiple                                                        |      |
+| 73. Students need flexible positioning.                                                     |                                                                 |      |
+| 74. Students need customizable display settings.                                            |                                                                 |      |
+| 75. Students need products that accommodate different sleep schedules.                      |                                                                 |      |
+| 76. Students need alarms that remain active until dismissed.                                |                                                                 |      |
+| 77. Students need products that perform consistently every use.                             |                                                                 |      |
+| 78. Students need products that do not lose power unexpectedly.                             |                                                                 |      |
+| 79. Students need music that does not overpower spoken content.                             |                                                                 |      |
+| 80. Students need speakers appropriate for shared living spaces.                            |                                                                 |      |
+| 81. Students need decorative lighting options.                                              |                                                                 |      |
+| 82. Students need products that create a comfortable living environment.                    |                                                                 |      |
+| 83. Students need aesthetically pleasing products that remain functional.                   |                                                                 |      |
+| 84. Students need products that reduce stress during busy schedules.                        |                                                                 |      |
+| 85. Students need products that save time.                                                  |                                                                 |      |
+| 86. Students need products that improve everyday convenience.                               |                                                                 |      |
+| 87. Students need products that work as advertised.                                         |                                                                 |      |
+| 88. Students need accurate product descriptions before purchasing.                          |                                                                 |      |
+| 89. Students need responsive customer support.                                              |                                                                 |      |
+| 90. Students need warranties that provide confidence.                                       |                                                                 |      |
+| 91. Students need companies that resolve issues quickly.                                    |                                                                 |      |
+| 92. Students need clear return policies.                                                    |                                                                 |      |
+| 93. Students need products that synchronize correctly with smartphones.                     |                                                                 |      |
+| 94. Students need firmware that does not introduce new problems.                            |                                                                 |      |
+| 95. Students need products that are easy to maintain over time.                             |                                                                 |      |
+| 96. Students need products that minimize cable clutter.                                     |                                                                 |      |
+| 97. Students need dependable charging indicators.                                           |                                                                 |      |
+| 98. Students need products that remain stable despite a compact footprint.                  |                                                                 |      |
+| 99. Students need products that continue functioning after relocation.                      |                                                                 |      |
+| 100. Students need products that make dorm living more enjoyable without adding complexity. |                                                                 |      |
 
-|	Compiled list of user Needs	|	Functions	|	Rank	|
-|	1. Students need products that work consistently every day.	|	At least one signal input (temp, humidity, light, audio)	|	1	|
-|	2. Students need products that are easy to set up without technical expertise.	|	at least 2 outputs (lighting, clock/screen display, fan)	|	2	|
-|	3. Students need products that fit comfortably in small dorm rooms.	|	Dual power source	|	3	|
-|	4. Students need products that are durable and last for years.	|	Removable modular units	|	4	|
-|	5. Students need products that provide good value for their budget.	|	Impact resistant	|	5	|
-|	6. Students need adjustable brightness for different activities.	|	Push button interface	|		|
-|	7. Students need products that are simple enough for first-time users.	|	Dial to change brightness	|		|
-|	8. Students need reliable charging for their devices.	|	Familiar interface, few butons and knobs	|		|
-|	9. Students need products that maximize limited desk space.	|	2 USB for charging and comms	|		|
-|	10. Students need lighting that is bright enough for studying.	|	Small footprint	|		|
-|	11. Students need dependable alarms that always wake them.	|	LEDs > 500lumins	|		|
-|	12. Students need intuitive controls that require little learning.	|	Low power alert	|		|
-|	13. Students need products with long battery life.	|	Dual power source	|		|
-|	14. Students need products that continue working after frequent daily use.	|	Impact resistant	|		|
-|	15. Students need products that reduce desk clutter.	|	Modular design, bulb, batteries, controls, and compute	|		|
-|	16. Students need products that combine multiple everyday functions.	|	Wider base	|		|
-|	17. Students need products that require minimal maintenance.	|	web page setup via usb	|		|
-|	18. Students need USB charging options for multiple devices.	|	web page setup via usb	|		|
-|	19. Students need products that are stable and do not tip over easily.	|	flexible light	|		|
-|	20. Students need clear instructions for setup and operation.	|	multispectrum light sources	|		|
-|	21. Students need touch controls that respond accurately.	|	blutooth enabled	|		|
-|	22. Students need products that are easy to customize.	|	multiple usb charging plugs	|		|
-|	23. Students need products that are easy to reposition.	|	small footprint	|		|
-|	24. Students need lighting that reduces eye strain.	|	simple push button setup clock and lights with dial	|		|
-|	25. Students need products that consume little power.	|	turn on with no power switch	|		|
-|	26. Students need wireless connections that stay reliable.	|	dual power supply	|		|
-|	27. Students need products that reconnect automatically after interruptions.	|	wireless charging pad	|		|
-|	28. Students need products that charge multiple devices simultaneously.	|	mood lighting	|		|
-|	29. Students need compact products that can be stored easily.	|	html based alarm settings available	|		|
-|	30. Students need interfaces that are easy to navigate.	|	Capable to turn off all lights for sleep settings	|		|
-|	31. Students need products that work immediately after setup.	|	quiet button press with physical feedback	|		|
-|	32. Students need products that keep accurate time.	|	wide band speakers	|		|
-|	33. Students need products that do not randomly shut off.	|	physical speaker volume dial.	|		|
-|	34. Students need products that charge through compatible phone cases.	|	html based audio customization	|		|
-|	35. Students need products that support different study environments.	|	custom mood lighting	|		|
-|	36. Students need adjustable viewing angles.	|	stamped metal body instead of plastic	|		|
-|	37. Students need customizable alarm schedules.	|	haptic push button with led flash	|		|
-|	38. Students need customizable lighting preferences.	|		|		|
-|	39. Students need multiple color temperature settings.	|		|		|
-|	40. Students need bedside lighting that does not disturb roommates.	|		|		|
-|	41. Students need products that operate quietly.	|		|		|
-|	42. Students need clear sound quality.	|		|		|
-|	43. Students need adjustable speaker volume.	|		|		|
-|	44. Students need balanced bass and audio clarity.	|		|		|
-|	45. Students need products that personalize their dorm room.	|		|		|
-|	46. Students need products with an attractive appearance.	|		|		|
-|	47. Students need products that create a relaxing atmosphere.	|		|		|
-|	48. Students need products that complement dorm décor.	|		|		|
-|	49. Students need products that feel premium.	|		|		|
-|	50. Students need lighting that evenly illuminates workspaces.	|		|		|
-|	51. Students need products that save outlet space.	|		|		|
-|	52. Students need products that work on USB power.	|		|		|
-|	53. Students need rechargeable products.	|		|		|
-|	54. Students need charging indicators that clearly show status.	|	LED charging indicator	|		|
-|	55. Students need products that retain settings after power loss.	|	product retains user settings for atleadt 30 days without power	|		|
-|	56. Students need products that are easy to reset.	|	clearly labeled reset control/can be used without power	|		|
-|	57. Students need products with clearly labeled features.	|	visible labels or symbols indicating funtion	|		|
-|	58. Students need reliable Bluetooth pairing.	|	succesfully bluetooth pair in 30 seconds	|		|
-|	59. Students need easy Wi-Fi setup.	|	WiFi setup in 5 minutes or less	|		|
-|	60. Students need compatibility with smartphones.	|	compatible with IOS or android	|		|
-|	61. Students need compatibility with voice assistants.	|	one voice assistant	|		|
-|	62. Students need products that continue functioning with limited internet.	|	core fucntions operate offline	|		|
-|	63. Students need software updates that do not reduce performance.	|	updates improve/maintain product performance	|		|
-|	64. Students need products that require little troubleshooting.	|	no more than 1 troubleshooting step	|		|
-|	65. Students need sturdy materials.	|		|		|
-|	66. Students need durable hinges and moving parts.	|	components withstand atleast 10k operating cycles	|		|
-|	67. Students need products that survive transportation between dorms.	|	withstand repeated transportation	|		|
-|	68. Students need products that withstand accidental bumps.	|		|		|
-|	69. Students need dependable construction quality.	|		|		|
-|	70. Students need products that justify their purchase price through longevity.	|	service life at least 3 years	|		|
-|	71. Students need products that fit crowded desks.	|	compact 	|		|
-|	72. Students need products that can adapt to different room layouts.	|	multiple	|		|
-|	73. Students need flexible positioning.	|		|		|
-|	74. Students need customizable display settings.	|		|		|
-|	75. Students need products that accommodate different sleep schedules.	|		|		|
-|	76. Students need alarms that remain active until dismissed.	|		|		|
-|	77. Students need products that perform consistently every use.	|		|		|
-|	78. Students need products that do not lose power unexpectedly.	|		|		|
-|	79. Students need music that does not overpower spoken content.	|		|		|
-|	80. Students need speakers appropriate for shared living spaces.	|		|		|
-|	81. Students need decorative lighting options.	|		|		|
-|	82. Students need products that create a comfortable living environment.	|		|		|
-|	83. Students need aesthetically pleasing products that remain functional.	|		|		|
-|	84. Students need products that reduce stress during busy schedules.	|		|		|
-|	85. Students need products that save time.	|		|		|
-|	86. Students need products that improve everyday convenience.	|		|		|
-|	87. Students need products that work as advertised.	|		|		|
-|	88. Students need accurate product descriptions before purchasing.	|		|		|
-|	89. Students need responsive customer support.	|		|		|
-|	90. Students need warranties that provide confidence.	|		|		|
-|	91. Students need companies that resolve issues quickly.	|		|		|
-|	92. Students need clear return policies.	|		|		|
-|	93. Students need products that synchronize correctly with smartphones.	|		|		|
-|	94. Students need firmware that does not introduce new problems.	|		|		|
-|	95. Students need products that are easy to maintain over time.	|		|		|
-|	96. Students need products that minimize cable clutter.	|		|		|
-|	97. Students need dependable charging indicators.	|		|		|
-|	98. Students need products that remain stable despite a compact footprint.	|		|		|
-|	99. Students need products that continue functioning after relocation.	|		|		|
-|	100. Students need products that make dorm living more enjoyable without adding complexity.	|		|		|
 
 ## Step Four
 
