@@ -4,20 +4,40 @@ title: Design Ideation
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This design page was created by first referencing the background materials. They include the course sequesnce requirements, the project description, brainstorming techniques, and successful ideation techniques. After meetings, discussions, writing, and consulting docuements, our team generated the following thoughts and ideas. 
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+| Requirement/Need                                         | Feature                         | Detail                                                                                                                         |
+| -------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| At least one signal input (temp, humidity, light, audio) | Light Sensor                    | Measures ambient light intensity to automatically adjust lighting brightness or operating mode.                                |
+|                                                          | Humidity Sensor                 | Measures relative humidity to monitor room conditions and provide input for environmental controls.                            |
+|                                                          | Audio Sensor                    | Detects ambient sound levels or audio events for sound-responsive functions.                                                   |
+|                                                          | Thermometer                     | Measures ambient temperature to monitor room conditions and provide input for temperature-based controls.                      |
+|                                                          | Motion Sensor                   | Detects nearby movement or occupancy to activate lighting, displays, or other functions automatically.                         |
+| At least 2 outputs (lighting, clock/screen display, fan) | Mood Lighting                   | Provides adjustable LED lighting with selectable brightness and color settings.                                                |
+|                                                          | Clock Display                   | Displays the current time, alarm status, and other relevant system information.                                                |
+|                                                          | Fan                             | Provides localized airflow and can be controlled manually or automatically using sensor data.                                  |
+|                                                          | Humidifier                      | Adds moisture to the surrounding air when additional humidity is desired.                                                      |
+|                                                          | Alarm Lighting                  | Uses flashing, fading, or increasing light intensity as a visual alarm or wake-up indicator.                                   |
+| Dual power source                                        | 120V Wall Plug                  | Provides primary power from a standard 120 V AC wall outlet through an appropriate isolated AC-to-DC power supply.             |
+|                                                          | Rechargeable Battery Power Pack | Provides backup or portable power when wall power is unavailable.                                                              |
+|                                                          | USB Charging                    | Allows the system or internal battery to receive power from a compatible USB power source.                                     |
+|                                                          | Wireless Charging               | Allows compatible devices or the product battery to charge without a direct cable connection.                                  |
+|                                                          | Solar Charging                  | Provides supplemental battery charging using a photovoltaic panel and appropriate charge-control circuitry.                    |
+| Removable modular units                                  | LED Array Easily Removable      | Allows the LED lighting assembly to be removed and replaced without replacing the entire product.                              |
+|                                                          | Battery/Charger Pack Cartridge  | Uses a removable battery and charging module for easier replacement, maintenance, or upgrades.                                 |
+|                                                          | Power Rectifier External        | Places AC-to-DC power conversion in an external power adapter, reducing high-voltage circuitry inside the main enclosure.      |
+|                                                          | Screen Removable                | Allows the display module to be detached for repair, replacement, or future upgrades.                                          |
+|                                                          | PCB Card Slide In/Out           | Uses connectors and mechanical guides so the main PCB can be removed without extensive disassembly or rewiring.                |
+| Impact resistant                                         | Rounded Edges                   | Reduces sharp impact points and helps distribute forces when the enclosure is bumped or dropped.                               |
+|                                                          | Shock-Absorbing Rubber Exterior | Adds an elastomeric protective layer to absorb impact energy and protect internal components.                                  |
+|                                                          | Robust Hardware                 | Uses durable fasteners, connectors, supports, and mounting points designed to withstand repeated handling.                     |
+|                                                          | Aluminum Frame/Housing          | Provides a rigid enclosure that protects internal electronics while offering improved structural durability.                   |
+|                                                          | No Glass                        | Uses impact-resistant alternatives such as polycarbonate or acrylic for transparent surfaces to reduce the risk of shattering. |
 
-|                   requirement / need | feature | detail                                                                      |
-| -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
-| product provides clear notifications | buzzer  | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications | speaker | the device can emit full waveforms                                          |
-|                                   .. |   ..    | ..                                                                          |
 
-## Step Three
+## Sort, Rank, and Groups
 | Compiled List of User Needs                                                                 | Functions                                                       | Rank |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---: |
 | 1. Students need products that work consistently every day.                                 | At least one signal input (temp, humidity, light, audio)        |    1 |
@@ -122,17 +142,19 @@ For each user need and product requirement, brainstorm 5 different product featu
 | 100. Students need products that make dorm living more enjoyable without adding complexity. |                                                                 |      |
 
 
-## Step Four
+## Concept Sketches
 
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
-***Overview:** 
-This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
-* **Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forcast before walking to class.
-* **Key Problems Solved:** IInsert core problems solved]
+
+**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
+
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forcast before walking to class.
+
+**Key Problems Solved:** IInsert core problems solved]
 ####
-Annotated CAD / Visual Model
-! [Annotated Concept 3(.png)
+Visual Model
+![Photo of Design 1](Device1.jpg)
 *Figure 5: Annotated CAD model of Concept 3 with callout arrows.*
 
 
