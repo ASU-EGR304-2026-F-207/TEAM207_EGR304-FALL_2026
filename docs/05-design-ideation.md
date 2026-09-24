@@ -156,9 +156,9 @@ This design page was created by first referencing the background materials. They
 
 **Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
 
-**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forcast before walking to class.
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class.
 
-**Key Problems Solved:** Insert core problems solved
+**Key Problems Solved:**
 ####
 Visual Model
 ![Environmental Sensor Device](Device2.jpg)
@@ -170,9 +170,9 @@ Visual Model
 
 Throughout the day students will interact with the device though the touch screen display which will showcase the current time, local weather, room temperature, humidity levels, and real time Canvas assignment alerts. Instead of having to wake up to a harsh alarm, students can now wake up to an artificial sunlight paired with bird chirping audio simulated from the integrated multi-spectrum LED light bar and the speakers. Throughout the late night study sessions, students can adjust the lighting as they please to ease eye strain or roommate disturbance.   
 
-**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class.
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class. The target venue is the personal workspace, mainly on the student's desk or nightstand to replace multiple separate appliances such as an alarm clock or a study lamp, to help give the students more desk space in a compact shared living space. 
 
-**Key Problems Solved:** IInsert core problems solved]
+**Key Problems Solved:**  Our design directly addresses physical and mental strain areas of living in university dorms, specifically academic deadline anxiety, sleep deprivation, uncontrolled room climates, and limited living space. By integrating lighting, schedule management, climate monitoring, and audio into one compact desktop unit, the design will help free up desk space and transform the dorm workspace into a healthier, more productive living environment.   
 ####
 Visual Model
 ![Device 3 Title](Device1.jpg)
