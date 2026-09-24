@@ -151,6 +151,18 @@ This design page was created by first referencing the background materials. They
 
 **Key Problems Solved:** One sensor input and two ouputs are used in this device, meeting the design standards for the product. They are photosensors, LED lights, and time/date display. The device is modular and built to withstand physical damage, which makes it reliable. All 5 needs have been met with this design: 1 input, 2 outputs, dual power source, modular units, impact resistant. 
 
+### Concept 2: Environmental Sensor Device
+#### Description & User Interaction
+
+**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
+
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forcast before walking to class.
+
+**Key Problems Solved:** Insert core problems solved
+####
+Visual Model
+![Environmental Sensor Device](Device2.jpg)
+
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
 
