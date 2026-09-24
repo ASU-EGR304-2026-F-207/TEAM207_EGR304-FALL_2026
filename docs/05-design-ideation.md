@@ -4,7 +4,7 @@ title: Design Ideation
 
 ## Intro/overview
 
-This design page was created by first referencing the background materials. They include the course sequesnce requirements, the project description, brainstorming techniques, and successful ideation techniques. After meetings, discussions, writing, and consulting docuements, our team generated the following thoughts and ideas. 
+This design page was created by first referencing the background materials. They include the project requirements, the project description, brainstorming techniques, and successful ideation techniques. After meetings, discussions, writing, and consulting docuements, our team generated the following thoughts and ideas. 
 
 ## Generating Ideas
 
@@ -144,12 +144,16 @@ This design page was created by first referencing the background materials. They
 
 ## Concept Sketches
 ### Concept 1: Mood & Health Clock
-![Device 1](Device1.jpg)
-**Overview:** The Mood & Health Clock will provide ambient light and directed light. The device also has a display screen to show temperature, time, date, and alarm clock. The device can provide ambient mood lighting, 360 directed reading light, and IR spectrum LED lighting for added health benefits and relaxation. The mood lighting can be customized, allowing for automatic on/off functions based on the ambient light in the room.The device has a modular design with robust materials and construction. The result is a tough and durable machine that is easy to repair. Each component can be removed and replaced with no tools required.
+![Device 1](Device1.1.jpg)
+**Overview:** The Mood & Health Clock provides both ambient and directed lighting in a durable, multifunctional device. The integrated display shows the temperature, time, date, and alarm settings. The device provides customizable ambient mood lighting, 360-degree directed reading light, and infrared (IR) spectrum LED lighting designed to support relaxation and wellness. The mood lighting can be customized by the user and includes automatic on/off functionality based on ambient light levels detected in the room.
 
-**Target Audience & Venue:** This product is best marketed to students or those needing bedside or table top reading lights. Health and wellness are a common interest for all age groups. Both tech savy and not will enjoy this product as it is very easy to use. 
+The device features a modular design with robust materials and durable construction. This approach creates a reliable product that is designed to withstand everyday use while remaining easy to maintain and repair. Each major component can be removed and replaced without requiring tools, simplifying repairs and extending the usable life of the product.
 
-**Key Problems Solved:** One sensor input and two ouputs are used in this device, meeting the design standards for the product. They are photosensors, LED lights, and time/date display. The device is modular and built to withstand physical damage, which makes it reliable. All 5 needs have been met with this design: 1 input, 2 outputs, dual power source, modular units, impact resistant. 
+**Target Audience & Venue:** The Mood & Health Clock is primarily designed for students and individuals who need a convenient bedside or tabletop reading light. Its combination of lighting, timekeeping, environmental information, and wellness-focused features makes it suitable for bedrooms, dorm rooms, offices, and study spaces. Because health and wellness are common interests across many age groups, the product can appeal to a broad audience. Its straightforward controls and accessible design also make it suitable for both tech-savvy and less technologically experienced users.
+
+**Key Problems Solved:** The device incorporates one sensor input and two primary outputs to meet the established design standards. The photosensor serves as the input by detecting ambient light levels, while the LED lighting system and time/date display serve as the outputs. The modular construction and impact-resistant design improve durability, reliability, and repairability.
+
+Overall, the design satisfies all five primary project requirements: one sensor input, two outputs, a dual power source, modular components, and impact-resistant construction.
 
 ### Concept 2: Environmental Sensor Device
 #### Description & User Interaction
