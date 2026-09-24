@@ -144,7 +144,7 @@ This design page was created by first referencing the background materials. They
 
 ## Concept Sketches
 ### Concept 1: Mood & Health Clock
-![Device 1](Device1.1.jpg)
+![Device 1](Device1.1.svg)
 **Overview:** The Mood & Health Clock provides both ambient and directed lighting in a durable, multifunctional device. The integrated display shows the temperature, time, date, and alarm settings. The device provides customizable ambient mood lighting, 360-degree directed reading light, and infrared (IR) spectrum LED lighting designed to support relaxation and wellness. The mood lighting can be customized by the user and includes automatic on/off functionality based on ambient light levels detected in the room.
 
 The device features a modular design with robust materials and durable construction. This approach creates a reliable product that is designed to withstand everyday use while remaining easy to maintain and repair. Each major component can be removed and replaced without requiring tools, simplifying repairs and extending the usable life of the product.
@@ -165,7 +165,7 @@ Overall, the design satisfies all five primary project requirements: one sensor 
 **Key Problems Solved:**
 ####
 Visual Model
-![Environmental Sensor Device](Device2.jpg)
+![Environmental Sensor Device](Device2.svg)
 
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
