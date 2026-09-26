@@ -169,18 +169,14 @@ Visual Model
 
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
+![Dorm hub clock](Device3.png)
 
-**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with upcoming assignments, create a healthy sleep schedule or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. The main problems we are trying to solve for these students are the intense academic deadline stress, uncomfortable or unmonitored room climates, and disrupted sleep schedules caused by the harsh dorm lighting. To solve these issues, our design integrates a compact all-in-one smart desktop dorm hub designed specifically for ASU students desk or nightstands. The device concentrates on schedule management, ambient environmental sensing, and wellness lighting into one interface to eliminate desk clutter while maintain a healthy daily routine.
+**Overview:** This device is a compact personal air-cooling and humidifying unit designed to improve comfort in indoor spaces. It combines a fan, humidifier, and environmental display in one portable design. The front LCD screen displays the time, temperature, humidity percentage, and fan strength. Four buttons allow the user to control the time, fan speed, humidifier, and temperature settings. A built-in water tank supplies water to the humidifier, which releases a fine mist through the mist spout on top. Overall, the device provides customizable cooling and humidification while allowing users to easily monitor and adjust their surrounding environment. 
 
-Throughout the day students will interact with the device though the touch screen display which will showcase the current time, local weather, room temperature, humidity levels, and real time Canvas assignment alerts. Instead of having to wake up to a harsh alarm, students can now wake up to an artificial sunlight paired with bird chirping audio simulated from the integrated multi-spectrum LED light bar and the speakers. Throughout the late night study sessions, students can adjust the lighting as they please to ease eye strain or roommate disturbance.   
+**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with the weather forecast before walking to class or students who need a little extra air in their dorms. The target venue is the personal workspace, mainly on the student's desk or nightstand to replace multiple separate appliances such as an alarm clock or a humidifier, to help give the students more desk space in a compact shared living space. 
 
-**Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class. The target venue is the personal workspace, mainly on the student's desk or nightstand to replace multiple separate appliances such as an alarm clock or a study lamp, to help give the students more desk space in a compact shared living space. 
+**Key Problems Solved:**  Our design directly addresses physical and mental strain areas of living in university dorms, specifically sleep deprivation, uncontrolled room climates, and limited living space. By integrating a digital clock, temperature display, and humidifier into one compact desktop unit, the design will help free up desk space and transform the dorm workspace into a healthier, more productive living environment.   
 
-**Key Problems Solved:**  Our design directly addresses physical and mental strain areas of living in university dorms, specifically academic deadline anxiety, sleep deprivation, uncontrolled room climates, and limited living space. By integrating lighting, schedule management, climate monitoring, and audio into one compact desktop unit, the design will help free up desk space and transform the dorm workspace into a healthier, more productive living environment.   
-####
-Visual Model
-![Device 3 Title](Device1.jpg)
-*Figure 5: Annotated CAD model of Concept 3 with callout arrows.*
 
 
 ## Step 5: Documented Work
