@@ -156,6 +156,9 @@ The device features a modular design with robust materials and durable construct
 Overall, the design satisfies all five primary project requirements: one sensor input, two outputs, a dual power source, modular components, and impact-resistant construction.
 
 ### Concept 2: Environmental Sensor Device
+####
+Visual Model
+![Environmental Sensor Device](Device2.svg)
 #### Description & User Interaction
 
 **Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
@@ -163,9 +166,7 @@ Overall, the design satisfies all five primary project requirements: one sensor 
 **Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class.
 
 **Key Problems Solved:**
-####
-Visual Model
-![Environmental Sensor Device](Device2.svg)
+
 
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
