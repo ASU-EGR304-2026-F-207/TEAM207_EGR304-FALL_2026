@@ -169,7 +169,7 @@ Visual Model
 
 ### Concept 3: Dorm Hub Clock and Weather Helper
 #### Description & User Interaction
-![Dorm hub clock](Device3.png)
+![Dorm hub clock](Device3.svg)
 
 **Overview:** This device is a compact personal air-cooling and humidifying unit designed to improve comfort in indoor spaces. It combines a fan, humidifier, and environmental display in one portable design. The front LCD screen displays the time, temperature, humidity percentage, and fan strength. Four buttons allow the user to control the time, fan speed, humidifier, and temperature settings. A built-in water tank supplies water to the humidifier, which releases a fine mist through the mist spout on top. Overall, the device provides customizable cooling and humidification while allowing users to easily monitor and adjust their surrounding environment. 
 
