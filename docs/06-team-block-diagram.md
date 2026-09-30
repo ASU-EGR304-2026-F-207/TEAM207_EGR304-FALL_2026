@@ -16,7 +16,7 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
+![Team 207 Block Diagram](team207-block-diagram.png)  
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
