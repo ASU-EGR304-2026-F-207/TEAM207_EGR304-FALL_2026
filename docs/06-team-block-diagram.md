@@ -15,14 +15,9 @@ _Italic Text_
 * Bullet Point 3
 
 ## Images
-
+**Figure 1:** Team 207 Block Diagram 
 ![Team 207 Block Diagram](team207-block-diagram.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
-
-
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
-
+[example link to idealab](team207-block-diagram-hub.drawio)
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
 **Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
