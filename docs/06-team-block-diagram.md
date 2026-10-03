@@ -8,9 +8,6 @@ title: Team Block Diagram
 ### The second subsystem focuses on temperature sensing. A temperature sensor measures the surrounding temperature and sends its signal through an operational amplifier before reaching the microcontroller's analog-to-digital converter (ADC). The microcontroller can then interpret the temperature data and use it as part of the lighting system's control.
 ### The third subsystem focuses on ambient light sensing. A light sensor detects the amount of light in the room and sends the signal through an operational amplifier to the ADC. This allows the system to determine the surrounding light level and potentially adjust the LEDs accordingly.
 ### Overall, the three subsystems have distinct purposes: user control, temperature measurement, and light measurement. Working together, they allow the relaxing light to respond to both the user's inputs and the surrounding environment, creating a more adaptable and personalized lighting system
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
 
 ## Research Question
 
@@ -20,12 +17,9 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
-
-
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
+**Figure 1:** Team 207 Block Diagram 
+![Team 207 Block Diagram](team207-block-diagram.png)  
+[Drawio.com](https://app.diagrams.net/#G1_G6MJIzGkZMXay39FLlBgE4gDPBz6y6s#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D)
 
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
