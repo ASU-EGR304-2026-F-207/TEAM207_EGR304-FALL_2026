@@ -563,6 +563,24 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#communications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Communications
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selection
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -660,6 +678,24 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#communications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Communications
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selection
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -690,6 +726,10 @@
 <p>The <strong>temperature board</strong> is expected to measure and process the ambient temperature and transmit the resulting temperature in degrees Fahrenheit to the main board using the message format <code>T,###</code>, terminated with carriage-return/line-feed characters. For example, <code>T,72\r\n</code> represents 72°F. The main board interprets this value to control two temperature indicator LEDs: both LEDs are off below 32°F, LED 1 is on from 32°F through 99°F, and both LEDs are on at 100°F or above.</p>
 <p>The <strong>ambient-light board</strong> is expected to measure the room's light level, convert it to a digital scale from <strong>1 to 100</strong>, and transmit it to the main board using the format <code>L,###</code>, also terminated with carriage-return/line-feed characters. For example, <code>L,37\r\n</code> represents an ambient-light level of 37. When the received light level is below 50, the main controller permits operation of the RGB LED array. At a light level of 50 or greater, the RGB array is disabled.</p>
 <p>The main controller uses hardware <strong>PWM outputs</strong> to control five MOSFET-driven LED banks, allowing adjustment of brightness, color mixing, gradual color transitions, and preset lighting patterns. Three push buttons provide user control of brightness, static color, and preset operating mode. A standalone software test mode is also included so simulated temperature and ambient-light values can be used to test the main controller independently before the two remote sensor boards are connected.</p>
+<h2 id="communications">Communications</h2>
+<p>Communication between the controllers uses a simple <strong>ASCII-based message format</strong> transmitted over the UART links. Sensor measurements are converted into human-readable ASCII characters before transmission. The ambient-light controller sends messages in the format <code>L,###\r\n</code>, where <code>L</code> identifies the message as a light-level measurement and <code>###</code> represents an integer value from 1 to 100. For example, <code>L,37\r\n</code> represents an ambient-light level of 37. The temperature controller uses the same structure with the format <code>T,###\r\n</code>, where <code>T</code> identifies temperature data in degrees Fahrenheit. Each message ends with the ASCII control characters <code>\r\n</code>. The <code>\r</code> character is <strong>Carriage Return (CR), ASCII 13 or 0x0D</strong>, and <code>\n</code> is <strong>Line Feed (LF), ASCII 10 or 0x0A</strong>. These characters act as an <strong>end-of-message delimiter</strong>, allowing the receiving PIC to determine when a complete message has been received and is ready to be processed. Each sensor controller transmits an updated message every <strong>500 ms (2 Hz)</strong>. The main controller monitors the arrival of valid messages, and if either communication channel does not provide a valid message for <strong>5 seconds</strong>, the firmware identifies a communication failure and illuminates the Trouble LED.</p>
+<h2 id="selection">Selection</h2>
+<p>UART with an ASCII-based message format was selected because it provides a <strong>simple and reliable method of communication</strong> between the three PIC controllers. Using two independent UART channels gives each sensor board a dedicated point-to-point connection, eliminating bus contention and reducing communication complexity. ASCII messages are also easy to generate, interpret, and troubleshoot because the transmitted data can be read directly with a serial terminal during development. The relatively low sensor update rate requires very little bandwidth, making <strong>9600-baud UART</strong> more than adequate while keeping both the hardware and software implementation straightforward.</p>
 
 
 
