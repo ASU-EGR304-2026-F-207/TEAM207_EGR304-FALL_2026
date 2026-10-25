@@ -28,3 +28,7 @@ Dr. Kevin Nichols<br>
 | Christopher Plumley    | [CPlumley84.GitHub](https://github.com/CPlumley84/CPlumley84_EGR304_F26.github.io) |
 | Aziyah Casellanoz      | [AziyahC](https://github.com/AziyahC) |
 | Dahryl Willliams       | [dahwil06-svg](https://github.com/dahwil06-svg) |
+
+## Project Overviwe
+
+This device promotes helath and wellness through relaxing mood lighting. The design is a desktop device with a small footprint and uses very little power. The device can sense the room temperature and has small scale of LEDs that show the ambient temperature of the room. The device can also sense how much light is in the room. For example it can tell if it is night time or daytime. These inputs, along with push buttons, allow the user to select a predifined lighting mode. Some lighting modes simulate a sunrise or sunset. Others mimic the ocean or rainforest. Future itterations may include white noise tha corresponds to the light theme and wake up and sleep features. The next generation would most certainly have an oLED dispaly for more data and user friendly operation.  
