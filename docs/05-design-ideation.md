@@ -4,7 +4,7 @@ title: Design Ideation
 
 ## Intro/overview
 
-This design page was created by first referencing the background materials. They include the project requirements, the project description, brainstorming techniques, and successful ideation techniques. After meetings, discussions, writing, and consulting docuements, our team generated the following thoughts and ideas. 
+This design page was created by first referencing the background materials. They include the project requirements, the project description, brainstorming techniques, and successful ideation techniques. After meetings, discussions, writing, and consulting documents, our team generated the following thoughts and ideas. 
 
 ## Generating Ideas
 
@@ -15,7 +15,7 @@ This design page was created by first referencing the background materials. They
 |                                                          | Audio Sensor                    | Detects ambient sound levels or audio events for sound-responsive functions.                                                   |
 |                                                          | Thermometer                     | Measures ambient temperature to monitor room conditions and provide input for temperature-based controls.                      |
 |                                                          | Motion Sensor                   | Detects nearby movement or occupancy to activate lighting, displays, or other functions automatically.                         |
-| At least 2 outputs (lighting, clock/screen display, fan) | Mood Lighting                   | Provides adjustable LED lighting with selectable brightness and color settings.                                                |
+| At least 2 outputs (lighting, clock/screen display, fan) | Mood Lighting                   | Provides adjustable LED lighting with select able brightness and color settings.                                                |
 |                                                          | Clock Display                   | Displays the current time, alarm status, and other relevant system information.                                                |
 |                                                          | Fan                             | Provides localized airflow and can be controlled manually or automatically using sensor data.                                  |
 |                                                          | Humidifier                      | Adds moisture to the surrounding air when additional humidity is desired.                                                      |
@@ -34,7 +34,7 @@ This design page was created by first referencing the background materials. They
 |                                                          | Shock-Absorbing Rubber Exterior | Adds an elastomeric protective layer to absorb impact energy and protect internal components.                                  |
 |                                                          | Robust Hardware                 | Uses durable fasteners, connectors, supports, and mounting points designed to withstand repeated handling.                     |
 |                                                          | Aluminum Frame/Housing          | Provides a rigid enclosure that protects internal electronics while offering improved structural durability.                   |
-|                                                          | No Glass                        | Uses impact-resistant alternatives such as polycarbonate or acrylic for transparent surfaces to reduce the risk of shattering. |
+|                                                          | No Glass                        | Uses impact-resistant alternatives such as poly carbonate or acrylic for transparent surfaces to reduce the risk of shattering. |
 
 
 ## Sort, Rank, and Groups
@@ -47,7 +47,7 @@ This design page was created by first referencing the background materials. They
 | 5. Students need products that provide good value for their budget.                         | Impact resistant                                                |    5 |
 | 6. Students need adjustable brightness for different activities.                            | Push button interface                                           |      |
 | 7. Students need products that are simple enough for first-time users.                      | Dial to change brightness                                       |      |
-| 8. Students need reliable charging for their devices.                                       | Familiar interface, few butons and knobs                        |      |
+| 8. Students need reliable charging for their devices.                                       | Familiar interface, few buttons and knobs                        |      |
 | 9. Students need products that maximize limited desk space.                                 | 2 USB for charging and comms                                    |      |
 | 10. Students need lighting that is bright enough for studying.                              | Small footprint                                                 |      |
 | 11. Students need dependable alarms that always wake them.                                  | LEDs > 500lumins                                                |      |
@@ -59,7 +59,7 @@ This design page was created by first referencing the background materials. They
 | 17. Students need products that require minimal maintenance.                                | web page setup via usb                                          |      |
 | 18. Students need USB charging options for multiple devices.                                | web page setup via usb                                          |      |
 | 19. Students need products that are stable and do not tip over easily.                      | flexible light                                                  |      |
-| 20. Students need clear instructions for setup and operation.                               | multispectrum light sources                                     |      |
+| 20. Students need clear instructions for setup and operation.                               | multi spectrum light sources                                     |      |
 | 21. Students need touch controls that respond accurately.                                   | blutooth enabled                                                |      |
 | 22. Students need products that are easy to customize.                                      | multiple usb charging plugs                                     |      |
 | 23. Students need products that are easy to reposition.                                     | small footprint                                                 |      |
@@ -94,10 +94,10 @@ This design page was created by first referencing the background materials. They
 | 52. Students need products that work on USB power.                                          |                                                                 |      |
 | 53. Students need rechargeable products.                                                    |                                                                 |      |
 | 54. Students need charging indicators that clearly show status.                             | LED charging indicator                                          |      |
-| 55. Students need products that retain settings after power loss.                           | product retains user settings for atleadt 30 days without power |      |
+| 55. Students need products that retain settings after power loss.                           | product retains user settings for at least 30 days without power |      |
 | 56. Students need products that are easy to reset.                                          | clearly labeled reset control/can be used without power         |      |
-| 57. Students need products with clearly labeled features.                                   | visible labels or symbols indicating funtion                    |      |
-| 58. Students need reliable Bluetooth pairing.                                               | succesfully bluetooth pair in 30 seconds                        |      |
+| 57. Students need products with clearly labeled features.                                   | visible labels or symbols indicating function                    |      |
+| 58. Students need reliable Bluetooth pairing.                                               | successfully bluetooth pair in 30 seconds                        |      |
 | 59. Students need easy Wi-Fi setup.                                                         | WiFi setup in 5 minutes or less                                 |      |
 | 60. Students need compatibility with smartphones.                                           | compatible with IOS or android                                  |      |
 | 61. Students need compatibility with voice assistants.                                      | one voice assistant                                             |      |
@@ -151,7 +151,7 @@ The device features a modular design with robust materials and durable construct
 
 **Target Audience & Venue:** The Mood & Health Clock is primarily designed for students and individuals who need a convenient bedside or tabletop reading light. Its combination of lighting, timekeeping, environmental information, and wellness-focused features makes it suitable for bedrooms, dorm rooms, offices, and study spaces. Because health and wellness are common interests across many age groups, the product can appeal to a broad audience. Its straightforward controls and accessible design also make it suitable for both tech-savvy and less technologically experienced users.
 
-**Key Problems Solved:** The device incorporates one sensor input and two primary outputs to meet the established design standards. The photosensor serves as the input by detecting ambient light levels, while the LED lighting system and time/date display serve as the outputs. The modular construction and impact-resistant design improve durability, reliability, and repairability.
+**Key Problems Solved:** The device incorporates one sensor input and two primary outputs to meet the established design standards. The photosensor serves as the input by detecting ambient light levels, while the LED lighting system and time/date display serve as the outputs. The modular construction and impact-resistant design improve durability, reliability, and repair ability.
 
 Overall, the design satisfies all five primary project requirements: one sensor input, two outputs, a dual power source, modular components, and impact-resistant construction.
 
@@ -161,7 +161,7 @@ Visual Model
 ![Environmental Sensor Device](Device2.svg)
 #### Description & User Interaction
 
-**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assinment deadlines, create a healthy sleep schedudle or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
+**Overview:** This design aims to help students who live inside the ASU dorms with keeping up to date with assignment deadlines, create a healthy sleep schedule or wake up routine, along with a weather forecast display to allow them to prepare for their walk to class. 
 
 **Target Audience & Venue:** The target audience for this product is ASU dorm students who have hard time keeping up with upcoming due dates or the weather forecast before walking to class.
 
@@ -195,3 +195,20 @@ Other resources: We used ChatGPT to search if any needs would have very similar 
 How we grouped features: We looked at which functions fulfilled the requirements, which ones would be more compatible in the product making process, and which functions made sense to put together for example scheduling and calendar instead of scheduling and fan.
 
 How we applied rankings to top ideas: Our goal was for most of the 5 ranked to be in all of the Ideas, excluding the different output options. For the output options we split that across the three ideas and put two or three of them in each product.
+
+## Selection Summary
+To select our final team design concept, Team 207 evaluated the three initial ideation concepts which are Concept 1: Mood and Health Clock, Concept 2: Environmental Sensor Device, and Concept 3: Dorm Hub Clock and Weather Helper. And put them against our prioritized user needs, team mission statement, and EGR 304 course requirements.
+
+Rather than picking a single concept outright, our decision making processes was based on combining the strongest, most feasible features from across all three concepts into a unified, modular system. From concept one we incorporated environmental status monitoring and status LED indicators. And from concept 2 and 3 we focused on serving student dorm needs by capturing environmental conditions and distributing system task across modular individual PCBs connected through a 8-pin header.
+
+The decision was finalized during team design meetings by creating an evaluation database based on hardware complexity, power budget safety margins, pin availability on the PIC18F57Q43 Curiosity Nano, and individual team member subsystems.
+
+## Design Refinements and Hardware Adaptions
+
+While our final architecture stays true to the original vision of an environmental monitoring dorm hub, we adapted specific features during the hardware component selection and schematic phase due to physical and microcontroller constraints: 
+
+1. Audio Features
+Our initial idea included audio feedback such as an alarm or ambient sounds but was excluded from the final design due to the audio processing would require an additional op-amp, a higher current, and more memory required from the PIC itself. We chose to remove audio to keep our power budget clean and prioritize the data transmission between boards.
+
+2. Display Screen
+Initially we had the idea of displaying the data transmitted across boards such as the weather, as well as the time or user notifications. We excluded this from the final ideations due to compatibility issues between the display and the PIC18F57Q43 Curiosity Nano due to the hardware and pin allocation conflicts. Instead we settled on the temperature and humidity readings being transmitted serially over the team's 8-pin header to the main board and local system status is provided via a dedicated debug status LED.
