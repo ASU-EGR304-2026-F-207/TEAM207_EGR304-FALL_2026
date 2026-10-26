@@ -13,6 +13,6 @@ Overall, the three subsystems have distinct purposes: user control, temperature 
 
 **Figure 1:** Team 207 Block Diagram 
 ![Team 207 Block Diagram](team207-block-diagram-hub.drawio.png)  
-[Drawio.com]([https://app.diagrams.net/#G1_G6MJIzGkZMXay39FLlBgE4gDPBz6y6s#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D](https://app.diagrams.net/#G1_G6MJIzGkZMXay39FLlBgE4gDPBz6y6s#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D)
+[Drawio.com]([https://app.diagrams.net/#G1_G6MJIzGkZMXay39FLlBgE4gDPBz6y6s#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D](https://app.diagrams.net/#G1_G6MJIzGkZMXay39FLlBgE4gDPBz6y6s#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D])
 
 
